@@ -7,6 +7,4 @@ fun main() {
 
     // nullable
     var name3: String? = "kotlin"
-
-
 }
