@@ -25,4 +25,15 @@ fun main() {
     }
 
     print(boolCond)
+
+
+    val data: Any = "Hello, World!"
+    when (data) {
+        is String -> println("data is a String: $data")
+        is Int -> println("data is an Int: $data")
+        is Boolean -> println("data is a Boolean: $data")
+        else -> println("data is something else: $data")
+    }
+    print(data);
+
 }
