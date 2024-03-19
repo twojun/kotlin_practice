@@ -1,4 +1,4 @@
-package org.example.ch1
+package org.example.example
 
 // Constant : top level : compile type constant
 const val num = 30

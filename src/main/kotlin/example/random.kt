@@ -1,4 +1,4 @@
-package org.example.ch1
+package org.example.example
 
 import kotlin.random.Random
 

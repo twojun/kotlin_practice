@@ -1,4 +1,4 @@
-package org.example.ch1
+package org.example.example
 
 fun main () {
     var num1 = 10
