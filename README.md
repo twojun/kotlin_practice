@@ -12,5 +12,7 @@
 ### 9. 다양한 라이브러리 <br><br><br>
 
 
-last modified : 2024.05.05<br><br>
-코틀린 인강 목록 <br>
+last modified : 2024.05.19<br><br>
+코틀린 인강, 참고도서, 레퍼런스 목록 <br>
+(1) KOTLIN IN ACTION : BEST KOTLIN PROGRAMMING PRACTICE GUIDE <br>
+https://m.yes24.com/Goods/Detail/55148593 <br>
